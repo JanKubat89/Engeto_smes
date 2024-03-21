@@ -27,3 +27,5 @@ Vyber si operaci: '''
         break
 
 print('hovno')
+
+print('zase neco')
