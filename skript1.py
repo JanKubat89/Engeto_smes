@@ -26,4 +26,4 @@ Vyber si operaci: '''
         print('Ukončuji...')
         break
 
-print('aa')
+print('hovno')
